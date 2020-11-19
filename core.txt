@@ -1,0 +1,1 @@
+This is the core for all our clients.
